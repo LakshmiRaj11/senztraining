@@ -2,7 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "companyName": "HK-Senzio",
+      "city": "Chennai",
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "companyName": "UK-Senzio",
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    {
+      "id": 3,
+      "companyName": "AUS-Senzio",
+      "city": "Sydney",
+      "country": "Australia"
     }
   ],
   "profile": {
